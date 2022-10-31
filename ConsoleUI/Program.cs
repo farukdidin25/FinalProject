@@ -5,7 +5,6 @@ using DataAccess.Concrete.InMemory;
 
 
 ProductTest();
-//CategoryTest();
 //OrderTest();
 
 static void ProductTest()
